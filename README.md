@@ -1,6 +1,6 @@
 # masa12
 12
 25
-buraya kadur master
+buraya kadar master
 
 bu satir branch1
